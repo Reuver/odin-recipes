@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+}
+
+h1,h2 {
+    color: orange;
+    font-family: 'Tahoma', 'Arial', 'sans-serif';
+}
+
+.links {
+    color: red;
+}
+
+ol, ul {
+    color: #ff9071;
+}
+
+.desc {
+    color: palevioletred;
+    font-family: 'Trebuchet MS', 'Arial', 'sans-serif';
+    margin: 16px;
+    background-color: brown;
+    padding: 8px;
+    list-style-position: inside;
+}
+
+.ingrs {
+    margin: 16px;
+    background-color: brown;
+    padding: 8px;
+    list-style-position: inside;
+}
+
+.directs {
+    margin: 16px;
+    background-color: brown;
+    padding: 8px;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+img {
+    margin-left: 25%;
+}
